@@ -1,5 +1,4 @@
 agentic-rag-schedule-assistant/
-│
-├── app.py
-├── requirements.txt
-└── README.md
+app.py
+requirements.txt
+README.md
