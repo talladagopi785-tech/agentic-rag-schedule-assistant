@@ -1,2 +1,5 @@
-# agentic-rag-schedule-assistant
-Agentic RAG-based Schedule Assistant using FastAPI and ChromaDB
+agentic-rag-schedule-assistant/
+│
+├── app.py
+├── requirements.txt
+└── README.md
