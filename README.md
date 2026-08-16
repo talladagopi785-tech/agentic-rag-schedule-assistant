@@ -1,4 +1,4 @@
 project
- app.py
- templates
- index.html
+app.py
+templates
+index.html
